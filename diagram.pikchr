@@ -1,0 +1,116 @@
+Try: [
+    box "Introduction"
+
+    arrow
+
+    box "Get first number" width 0
+
+    arrow
+
+    box "Get second number" width 0
+
+    arrow
+
+    box "Get operation"
+
+    arrow
+
+    DOperation: diamond "Is operation" "defined?"
+
+    arrow "Yes" above
+
+    ANo: arrow "No  " rjust from DOperation.s down
+
+    BContinue: box "Continue"
+
+    box "Get operation" "from dict" with .w at 2nd last arrow.e
+
+    arrow right from last.e
+
+    box "Call the function" "from the dict" width 0
+
+    arrow
+
+    box "Print the" "output"
+
+    line from last.e \
+        right 1cm \
+        then down until even with ANo
+
+    line from BContinue.e \
+        right until even with last.e \
+        then up until even with last.s
+]
+
+BTry: box width Try.width+1.75cm height Try.height+1cm with .w at Try.w+(-0.5cm, 0)
+
+text "Try" italic with .nw at last.nw
+
+line from BTry.e left
+
+LTry: line from BTry.e right
+
+Except: [
+    BValue: box "ValueError" italic ljust \
+        "" \
+        "Print message about" "math not words" fit width 150%
+
+    move right
+
+    BDiv: box "ZeroDivisionError" italic ljust \
+        "" \
+        "Print message about" "division by zero" fit width 150%
+
+    line from BValue.s \
+        down \
+        then right until even with BDiv
+
+    line from BDiv.s \
+        down \
+        then right until even with BDiv.e \
+        then right 1cm
+] with .n at 2.5cm below BTry.s+(-.375cm, 0)
+
+BExcept: box width Except.width+1.75cm height Except.height+1.3cm with .sw at Except.sw+(-0.5cm, -0.5cm)
+
+text "Except" italic with .nw at last.nw
+
+line from Except.se to Except.e+(0, 0.15cm)
+
+line from BExcept.e left
+
+LExcept: line from BExcept.e right until even with LTry.e
+
+arrow from BTry.s to BExcept.n
+
+line from LTry.e to LExcept.e
+
+line right from last
+
+Finally: [
+    diamond "Does user want" "to quit?" width 4cm height 2cm
+
+    line "Yes" above
+
+    line "No  " rjust down 1cm from last diamond.s
+] with .w at 0.5cm right of last.e
+
+BFinally: box width Finally.width+0.5cm height Finally.height+0.5cm with .se at Finally.se
+
+text "Finally" italic with .nw at last.nw
+
+line from 2cm above Finally.se right
+
+box "Break"
+
+down
+
+arrow
+
+box "Exit"
+
+arrow from 2cm right of Finally.sw \
+    down until even with BExcept.s \
+    then down 2cm \
+    then left until even with Try.w+(1cm, 0) \
+    then up until even with Try.n+(0, -1.56cm)

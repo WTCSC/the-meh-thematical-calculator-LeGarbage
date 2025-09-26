@@ -1,0 +1,88 @@
+<svg xmlns='http://www.w3.org/2000/svg' style='font-size:initial;' class="pikchr" viewBox="0 0 2367.47 759.197" data-pikchr-date="20250321215505">
+<path d="M30.5065,120.506L138.506,120.506L138.506,48.5065L30.5065,48.5065Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="84.5065" y="84.5065" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Introduction</text>
+<polygon points="210.506,84.5065 198.986,88.8265 198.986,80.1865" style="fill:rgb(0,0,0)"/>
+<path d="M138.506,84.5065L204.746,84.5065"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M210.506,120.506L360.727,120.506L360.727,48.5065L210.506,48.5065Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="285.617" y="84.5065" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Get first number</text>
+<polygon points="432.727,84.5065 421.207,88.8265 421.207,80.1865" style="fill:rgb(0,0,0)"/>
+<path d="M360.727,84.5065L426.967,84.5065"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M432.727,120.506L607.025,120.506L607.025,48.5065L432.727,48.5065Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="519.876" y="84.5065" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Get second number</text>
+<polygon points="679.025,84.5065 667.505,88.8265 667.505,80.1865" style="fill:rgb(0,0,0)"/>
+<path d="M607.025,84.5065L673.265,84.5065"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M679.025,120.506L787.025,120.506L787.025,48.5065L679.025,48.5065Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="733.025" y="84.5065" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Get operation</text>
+<polygon points="859.025,84.5065 847.505,88.8265 847.505,80.1865" style="fill:rgb(0,0,0)"/>
+<path d="M787.025,84.5065L853.265,84.5065"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M859.025,84.5065L931.025,138.506L1003.02,84.5065L931.025,30.5065Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="931.025" y="74.4265" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Is operation</text>
+<text x="931.025" y="94.5865" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">defined?</text>
+<polygon points="1075.02,84.5065 1063.5,88.8265 1063.5,80.1865" style="fill:rgb(0,0,0)"/>
+<path d="M1003.02,84.5065L1069.26,84.5065"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="1039.02" y="72.8065" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Yes</text>
+<polygon points="931.025,210.506 926.705,198.986 935.345,198.986" style="fill:rgb(0,0,0)"/>
+<path d="M931.025,138.506L931.025,204.746"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="931.025" y="174.506" text-anchor="end" fill="rgb(0,0,0)" dominant-baseline="central">No  </text>
+<path d="M877.025,282.506L985.025,282.506L985.025,210.506L877.025,210.506Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="931.025" y="246.506" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Continue</text>
+<path d="M1075.02,120.506L1183.02,120.506L1183.02,48.5065L1075.02,48.5065Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="1129.02" y="74.4265" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Get operation</text>
+<text x="1129.02" y="94.5865" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">from dict</text>
+<polygon points="1255.02,84.5065 1243.5,88.8265 1243.5,80.1865" style="fill:rgb(0,0,0)"/>
+<path d="M1183.02,84.5065L1249.26,84.5065"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M1255.02,120.506L1406.63,120.506L1406.63,48.5065L1255.02,48.5065Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="1330.83" y="74.4265" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Call the function</text>
+<text x="1330.83" y="94.5865" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">from the dict</text>
+<polygon points="1478.63,84.5065 1467.11,88.8265 1467.11,80.1865" style="fill:rgb(0,0,0)"/>
+<path d="M1406.63,84.5065L1472.87,84.5065"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M1478.63,120.506L1586.63,120.506L1586.63,48.5065L1478.63,48.5065Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="1532.63" y="74.4265" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Print the</text>
+<text x="1532.63" y="94.5865" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">output</text>
+<path d="M1586.63,84.5065L1643.32,84.5065L1643.32,174.506"  style="fill:none;stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
+<path d="M985.025,246.506L1643.32,246.506L1643.32,174.506"  style="fill:none;stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
+<path d="M2.16,310.853L1714.19,310.853L1714.19,2.16L2.16,2.16Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="22.0896" y="17.28" text-anchor="middle" font-style="italic" fill="rgb(0,0,0)" dominant-baseline="central">Try</text>
+<path d="M1714.19,156.506L1642.19,156.506"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M1714.19,156.506L1786.19,156.506"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M484.429,543.305L760.563,543.305L760.563,452.585L484.429,452.585Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="487.849" y="467.705" text-anchor="start" font-style="italic" fill="rgb(0,0,0)" dominant-baseline="central">ValueError</text>
+<text x="622.496" y="487.865" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central"></text>
+<text x="622.496" y="508.025" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Print message about</text>
+<text x="622.496" y="528.185" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">math not words</text>
+<path d="M832.563,543.305L1132.71,543.305L1132.71,452.585L832.563,452.585Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="835.983" y="467.705" text-anchor="start" font-style="italic" fill="rgb(0,0,0)" dominant-baseline="central">ZeroDivisionError</text>
+<text x="982.634" y="487.865" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central"></text>
+<text x="982.634" y="508.025" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Print message about</text>
+<text x="982.634" y="528.185" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">division by zero</text>
+<path d="M622.496,543.305L622.496,615.305L982.634,615.305"  style="fill:none;stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
+<path d="M982.634,543.305L982.634,615.305L1132.71,615.305L1189.4,615.305"  style="fill:none;stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
+<path d="M456.082,643.652L1260.26,643.652L1260.26,407.231L456.082,407.231Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="490.7" y="422.351" text-anchor="middle" font-style="italic" fill="rgb(0,0,0)" dominant-baseline="central">Except</text>
+<path d="M1189.4,615.305L1189.4,525.441"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M1260.26,525.441L1188.26,525.441"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M1260.26,525.441L1786.19,525.441"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<polygon points="858.174,407.231 853.854,395.711 862.494,395.711" style="fill:rgb(0,0,0)"/>
+<path d="M858.174,310.853L858.174,401.471"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M1786.19,156.506L1786.19,525.441"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M1786.19,340.974L1858.19,340.974"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M1886.53,312.627L1999.92,369.32L2113.31,312.627L1999.92,255.934Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="1999.92" y="302.547" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Does user want</text>
+<text x="1999.92" y="322.707" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">to quit?</text>
+<path d="M2113.31,312.627L2185.31,312.627"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="2149.31" y="300.927" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Yes</text>
+<path d="M1999.92,369.32L1999.92,426.013"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="1999.92" y="397.667" text-anchor="end" fill="rgb(0,0,0)" dominant-baseline="central">No  </text>
+<path d="M1858.19,426.013L2185.31,426.013L2185.31,227.588L1858.19,227.588Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="1892.69" y="242.708" text-anchor="middle" font-style="italic" fill="rgb(0,0,0)" dominant-baseline="central">Finally</text>
+<path d="M2185.31,312.627L2257.31,312.627"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M2257.31,348.627L2365.31,348.627L2365.31,276.627L2257.31,276.627Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="2311.31" y="312.627" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Break</text>
+<polygon points="2311.31,420.627 2306.99,409.107 2315.63,409.107" style="fill:rgb(0,0,0)"/>
+<path d="M2311.31,348.627L2311.31,414.867"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M2257.31,492.627L2365.31,492.627L2365.31,420.627L2257.31,420.627Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="2311.31" y="456.627" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Exit</text>
+<polygon points="87.1994,118.947 91.5194,130.467 82.8794,130.467" style="fill:rgb(0,0,0)"/>
+<path d="M1999.92,426.013L1999.92,643.652L1999.92,757.037L87.1994,757.037L87.1994,124.707"  style="fill:none;stroke-width:2.16;stroke-linejoin:round;stroke:rgb(0,0,0);" />
+</svg>
+
